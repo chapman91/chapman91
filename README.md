@@ -1,7 +1,7 @@
 👋 Hi, I’m @chapman91
-- 👀 Exploring the world of web3 front end development and blockchain technology.
-- 🌱 Currently diving into the realms of HTML, CSS, JavaScript, SQL and Solidity.
-- 💞️ Passionate about collaborating on exciting projects in the fields of front end and blockchain development.
+- 👀 Exploring the world of penetration testing, blockchain technology and AWS.
+- 🌱 Currently diving into realms SQL and Solidity.
+- 💞️ Passionate about collaborating on exciting projects in the fields of front-end and blockchain development.
 - 📫 Let's connect: [Twitter @Birixte]
 
 <!---
