@@ -1,8 +1,8 @@
 👋 Hi, I’m @chapman91
 - 👀 Exploring the world of penetration testing, blockchain technology and AWS.
-- 🌱 Currently diving into realms SQL and Solidity.
+- 🌱 Currently hardcore practicing and mastering my skillset.
 - 💞️ Passionate about collaborating on exciting projects in the fields of front-end and blockchain development.
-- 📫 Let's connect: [Twitter @Birixte]
+
 
 <!---
 chapman91/chapman91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
