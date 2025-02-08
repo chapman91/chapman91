@@ -1,6 +1,6 @@
 👋 Hola, Amigo 
 
-My name is Chapman and I am a self-taught trained software engineer interested in all things web3 & blockchain technology. 
+My name is Chapman, and I am a trained self-taught software engineer with an interest in all things web3. 
 
 - 👀 I'm exploring the world of penetration testing, blockchain technology and AWS.
 - 🌱 I'm currently working on my new startup called SyncSphere Labs (https://cyrocoin.xyz/).
